@@ -1,0 +1,16 @@
+{
+  "name": "solana-token-distributor-advanced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/spl-token": "^0.3.4",
+    "@solana/web3.js": "^1.60.0",
+    "commander": "^9.4.0"
+  }
+}
